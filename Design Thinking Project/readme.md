@@ -12,3 +12,5 @@ In my first semester of the Bachelor of Computer Network and Security with Honou
 For improvement, I believe gaining more hands-on experience in coding real-life projects would better prepare me for future work. Practical coding in a professional environment differs greatly from academic studies, and more exposure to such scenarios would be beneficial. Additionally, the industrial visits have been eye-opening, showing me how companies in Malaysia are leveraging advanced technologies to create impactful projects. These experiences have broadened my perspective and motivated me to aim higher in my career.
 
 Overall, this semester has been a valuable learning journey, and I look forward to further developing my skills through certifications, competitions, and more practical projects in the future.
+
+### ![Video Link Heree](https://www.youtube.com/watch?v=QyZCmugC9l0)
