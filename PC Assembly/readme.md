@@ -5,4 +5,5 @@ Additionally, this workshop improved my skills in:
 - Technical Knowledge: I now have a clearer understanding of how different hardware components work together, such as the motherboard, CPU, GPU, and storage devices.
 - Precision and Attention to Detail: Handling delicate components like the CPU and RAM taught me the importance of careful and precise installation to prevent damage.
 - Time Management: Assembling a PC within a set timeframe improved my ability to work efficiently while maintaining accuracy.
+
 Overall, this workshop was a great learning experience that enhanced my technical skills and gave me practical knowledge that I can apply in future projects or career opportunities in the tech field.
