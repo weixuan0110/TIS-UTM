@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-01-20 at 2 56 35 AM](https://github.com/user-attachments/assets/6a3bb5c7-57ac-433b-95f9-506f11dddf81)
 # PC Assembly
 ## Reflection
 In this PC Assembly workshop, I had the opportunity to gain hands-on experience in assembling a PC, from installing the RAM to setting up the hard disk. This workshop allowed me to understand the function of each component and the importance of proper handling to avoid damage.
