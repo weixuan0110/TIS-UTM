@@ -18,7 +18,7 @@ Technology & Information System Projects and Assignments
    - **Files**:
      - `Design Thinking Project/`
        - `readme.md`
-       - `Report.pdf`
+       - `project.pdf`
 
 ---
 
